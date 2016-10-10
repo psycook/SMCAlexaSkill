@@ -1,0 +1,27 @@
+{
+  "name": "salesforce-skill",
+  "version": "1.0.0",
+  "description": "An echo skill for salesforce integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psycook/SMCAlexaSkill.git"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "salesforce"
+  ],
+  "author": "Simon Cook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psycook/SMCAlexaSkill/issues"
+  },
+  "homepage": "https://github.com/psycook/SMCAlexaSkill#readme",
+  "dependencies": {
+    "alexa-app": "^2.3.4"
+  }
+}
